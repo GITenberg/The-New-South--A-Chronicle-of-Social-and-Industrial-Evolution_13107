@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1068
     wikipedia: http://en.wikipedia.org/wiki/Holland_Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13107#The-New-South--A-Chronicle-of-Social-and-Industrial-Evolution
 gutenberg_bookshelf:
 - United States
 - Children's History
