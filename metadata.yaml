@@ -1,0 +1,32 @@
+_repo: The-New-South--A-Chronicle-of-Social-and-Industrial-Evolution_13107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Holland
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '1068'
+    url: http://www.gutenberg.org/2009/agents/1068
+    wikipedia: http://en.wikipedia.org/wiki/Holland_Thompson
+description: ''
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- History -- 1865-1951'
+- !lcsh 'Southern States -- Economic conditions'
+- !lcsh 'Southern States -- Social conditions'
+- !lcc 'F206'
+title: 'The New South: A Chronicle of Social and Industrial Evolution'
+url: http://www.gutenberg.org/ebooks/13107
